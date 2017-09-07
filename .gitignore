@@ -1,0 +1,4 @@
+src/github.com/
+src/golang.org/
+.idea/
+*.tmp
