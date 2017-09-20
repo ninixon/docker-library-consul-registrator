@@ -1,3 +1,3 @@
 #!/bin/sh
 
-/bin/registrator -advertise $HOST_IP -consul $CONSUL_HOST
+/bin/goapp -advertise $HOST_IP -consul $CONSUL_HOST

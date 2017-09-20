@@ -2,3 +2,4 @@
 .git
 src/github.com
 src/golang.org
+Dockerfile
